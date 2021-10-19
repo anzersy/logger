@@ -18,5 +18,5 @@ package logger
 import "fmt"
 
 func Logger() {
-	fmt.Println("init fix bug with exception in v2, more ,new")
+	fmt.Println("init fix bug with exception in v2, moresss ,new")
 }
