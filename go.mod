@@ -1,3 +1,3 @@
-module github.com/anzersy/logger/p1
+module github.com/anzersy/logger/v2
 
 go 1.17
