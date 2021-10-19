@@ -18,5 +18,5 @@ package logger
 import "fmt"
 
 func Logger() {
-	fmt.Println("init fix bug with exception in p1")
+	fmt.Println("init fix bug with exception in p1, more")
 }
